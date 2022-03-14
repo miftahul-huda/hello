@@ -1,0 +1,6 @@
+service: default
+runtime: nodejs12
+env: standard
+env_variables:
+  APP_PORT: "8080"
+
